@@ -1,14 +1,14 @@
 # Mini pokemon game project
-Just a little project of game, based on the pokemon universe, where you have to type the name of the first 251 pokemons.
+This is the electronJS oriented project of another project that you can find [here](https://github.com/spychest/miniPokemonGameProject).
 
 ## Installation
 You can clone this project with git:
 
-`git clone https://github.com/spychest/miniPokemonGameProject.git`
+`git clone https://github.com/spychest/Pokemon-game-electron.git`
 
 Or
 
-`git clone git@github.com:spychest/miniPokemonGameProject.git`
+`git clone git@github.com:spychest/Pokemon-game-electron.git`
 
 Or you can download it by clicking on the code green button and then click on "Download zip". Then, you'll have to unzip the file.
 
