@@ -1,0 +1,38 @@
+{
+  "name": "pokemon-app",
+  "version": "1.0.0",
+  "description": "A little game in the pokemon universe to test your memory",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spychest/miniPokemonGameProject.git"
+  },
+  "keywords": [
+    "pokemon",
+    "game",
+    "memory",
+    "spychest"
+  ],
+  "author": "spychest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spychest/miniPokemonGameProject/issues"
+  },
+  "homepage": "https://github.com/spychest/miniPokemonGameProject#readme",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.3",
+    "@electron-forge/maker-deb": "^6.0.3",
+    "@electron-forge/maker-rpm": "^6.0.3",
+    "@electron-forge/maker-squirrel": "^6.0.3",
+    "@electron-forge/maker-zip": "^6.0.3",
+    "electron": "^21.3.1"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0"
+  }
+}
