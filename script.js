@@ -11,6 +11,8 @@ const baseApiUrl = 'https://pokemon-api.spychest.fr/api/pokemon/getPokemonByName
 const baseApiUrlToGetAllPokemons = 'https://pokemon-api.spychest.fr/api/pokemon/getAll'
 let currentStreak = 0;
 
+
+
 window.addEventListener('resize', (event) => {
     correctDisplay();
 })
@@ -65,6 +67,7 @@ pokemonForm.addEventListener('submit', async (event) => {
         }
     }
     resetInput();
+    correctDisplay();
 })
 
 const correctDisplay = () => {
