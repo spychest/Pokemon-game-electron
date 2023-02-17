@@ -40,7 +40,7 @@ Using nodeJS to allow the conversion thanks to electronJS
 The API that I'm using is only available in french. It's an API that I made and it doesn't require any auth. You can find documentation about this API right [here](https://pokemon-api.spychest.fr/api/doc).
 
 ## Acknowledgements
-- Thanks to [IgotYBack](https://github.com/IGotYBack) for the motivation and for the interest that she gaves me for JavaScript and CSS. You can also find her on [twitch](https://www.twitch.tv/igotyb).
+- Thanks to [IgotYBack](https://github.com/NadegeHbg) for the motivation and for the interest that she gaves me for JavaScript and CSS. You can also find her on [twitch](https://www.twitch.tv/igotyb).
 - Thanks to [Sheryrsen](https://www.twitch.tv/sheryrsen) for the test she mades.
 - Thanks to [Jérôme BALIEUX](https://github.com/jbalieux) for the reconciliation with the front-end and for information about electronJS.
 - Thanks to Eliot Alderson for saving the world.
