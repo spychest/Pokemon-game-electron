@@ -1,14 +1,3 @@
-// TP: #1 - faire une fonction qui prend en paramètre un tableau d'objets décrivant les pokemons. #2 - dans cette fonction faire une boucle qui va créer N [div.pokemon-card] . #3 - la fonction doit retourner HTMLCollection[div.pokemon-card]. #bonus - greffer des événement de de click sur les boutons présent dans [div.pokemmon-card], et au click logger l'action. #notions - scope, boucle, fonction, dom #contrainte - la fonction ne peux rien ajouter dans le dom (event, html) d'elle même.
-
-// Terminer mise en forme générale de la carte
-// -> Chercher les couleurs de tous les types de pokemon (lié au 1st type)
-// Styliser le site en général
-//  -> importer la police pokemon
-// choisir les couleurs ()
-// Le TP de de vosu cfr above
-// https://codepen.io/simeydotme/pen/abYWJdX comprendre comment ça fonctionne, ne fut-ce que pour les effects sur la carte
-
-// form / header
 const pokemonForm = document.querySelector('[data-pokemon-form]');
 const pokemonInput = document.querySelector('[data-pokemon-input]');
 const resetButton = document.querySelector('[data-reset]');
